@@ -1,8 +1,7 @@
-# DUMPALYZER v1.2.1  
-## By Bak3n3ko
+# DUMPALYZER v1.2.1
 
 <p align="center">
-  <img src="https://github.com/RandomLinoge/Dumpalyzer/blob/9a05afc83bb1851bc771cbb18b43637a0ded2c9d/Dumpalyzer-logo.png">
+  <img src="https://github.com/RandomLinoge/Dumpalyzer/blob/d9d32f803cb9d8717a4708f2a6622a0cdea8782e/Dumpalyzer-logo-Bak3n3ko.png">
   <p align="center">Forensic Analyzer Tool Designed in Pure Bash to Carve Memory and HDD Files into Organized Logs.</p>
   <p align="center">
   </a>
@@ -11,7 +10,6 @@
         <img src="https://img.shields.io/badge/Release%20Date-August%202022-informational">
   <img src="https://shields.io/badge/Bash-100%25-red">
   <img src="https://shields.io/badge/Platform-%20Linux-lightgreen">
-  
     </a>
   </p>
 </p>
