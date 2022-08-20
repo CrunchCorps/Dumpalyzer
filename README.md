@@ -1,8 +1,22 @@
 # DUMPALYZER v1.2.1  
 ## By Bak3n3ko
-<img src=https://github.com/RandomLinoge/Dumpalyzer/blob/9a05afc83bb1851bc771cbb18b43637a0ded2c9d/Dumpalyzer-logo.png>
- Analyzer [A.K.A - Dumpalyzer] is a bash script whose purose is to analyze Memory and HDD files, forensically extract them with five different tools in an interactive mode, and output organized log files.
 
+<p align="center">
+  <img src="https://github.com/RandomLinoge/Dumpalyzer/blob/9a05afc83bb1851bc771cbb18b43637a0ded2c9d/Dumpalyzer-logo.png">
+  <p align="center">A Forensic Analyzer designed to carve and log memory and hdd files..</p>
+  <p align="center">
+  </a>
+    <a href="https://github.com/RandomLinoge/Dumpalyzer">
+      <img src="https://img.shields.io/badge/version-1.2.1-blue.svg">
+        <img src="https://img.shields.io/badge/release%20date-August%202022-informational">
+    </a>
+  </p>
+</p>
+
+---
+Analyzer [A.K.A - Dumpalyzer] is a bash script whose purose is to analyze Memory and HDD files, forensically extract them with five different tools in an interactive mode, and output organized log files.
+---
+>
 >
 >  **What is Analyzer?**
 >
