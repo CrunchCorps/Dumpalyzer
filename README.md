@@ -9,6 +9,8 @@
     <a href="https://github.com/RandomLinoge/Dumpalyzer">
       <img src="https://img.shields.io/badge/version-1.2.1-blue.svg">
         <img src="https://img.shields.io/badge/release%20date-August%202022-informational">
+  <img src="https://shields.io/badge/bash-100%25-red">
+  
     </a>
   </p>
 </p>
