@@ -1,7 +1,7 @@
 # DUMPALYZER v1.2.1
 
 <p align="center">
-  <img src="https://github.com/RandomLinoge/Dumpalyzer/blob/d9d32f803cb9d8717a4708f2a6622a0cdea8782e/Dumpalyzer-logo-Bak3n3ko.png">
+  <img src="https://github.com/RandomLinoge/Dumpalyzer/blob/28186cf08bf0e1f1a389df358f2c2f5155ee469c/Dumpalyzer-logo-Bak3n3ko.png">
   <p align="center">Forensic Analyzer Tool Designed in Pure Bash to Carve Memory and HDD Files into Organized Logs.</p>
   <p align="center">
   </a>
